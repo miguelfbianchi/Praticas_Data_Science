@@ -1,2 +1,2 @@
 # DataScience
-Projetos desenvolvidos no 
+Projetos desenvolvidos no curso "Cientista de Dados Iniciante", da Mentorama
